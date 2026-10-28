@@ -1,0 +1,10 @@
+site_name: Caffeine Brothers Coffee Guide
+site_description: A practical guide to buying Philippine coffee beans, from Caffeine Brothers in Makati City.
+site_url: https://caffeine-brothers.readthedocs.io/
+nav:
+  - Home: index.md
+  - Philippine coffee varieties: varieties.md
+  - Buying for a cafe or office: buying-for-business.md
+  - Gifts and drip bags: gifts.md
+theme:
+  name: readthedocs
